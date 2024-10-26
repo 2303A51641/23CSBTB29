@@ -19,3 +19,6 @@ https://github.com/2303A51641/23CSBTB29/blob/main/AIML_(06_1641).ipynb
 
 
 https://github.com/2303A51641/23CSBTB29/blob/main/SVM(1641).ipynb
+
+
+https://github.com/2303A51641/23CSBTB29/blob/main/1641_Decision_Tree.ipynb
