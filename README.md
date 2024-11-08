@@ -22,3 +22,6 @@ https://github.com/2303A51641/23CSBTB29/blob/main/SVM(1641).ipynb
 
 
 https://github.com/2303A51641/23CSBTB29/blob/main/1641_Decision_Tree.ipynb
+
+
+https://github.com/2303A51641/23CSBTB29/blob/main/Exam_(1641).ipynb
